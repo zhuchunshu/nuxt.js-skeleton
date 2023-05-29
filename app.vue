@@ -19,7 +19,7 @@
 <script setup lang="ts">
 useHead({
   bodyAttrs: {
-    class: 'bg-gray-100'
+    class: 'min-h-screen bg-gray-50'
   },
 })
 </script>
